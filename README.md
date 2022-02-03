@@ -1,47 +1,22 @@
-### Hi! My name is Sérgio and i´m Portuguse.🙋‍♂️ 🇵🇹 
+♂️<h1 align="center">Hi 👋, I'm Sérgio Pereira.</h1>
+<h3 align="center">A passionate FrontEnd Student from Portugal.</h3>
 
-I speak 🇵🇹 , 🇺🇸 and a little bit of 🇪🇸 .I´m currently learning FrontEnd Development💻
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sergi0pereira&label=Profile%20views&color=0e75b6&style=flat" alt="sergi0pereira" /> </p>
 
-##
+- 🌱 I’m currently learning **Html5, Css3, JavaScript**
 
-<div align="center">
-  <a href="https://github.com/Sergi0Pereira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergi0Pereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergi0Pereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameSergi0Pereira&layout=compact&langs_count=7&theme=radical"/>
-</div>
+- 📫 How to reach me **tpessoalsp@gmail**
 
-  ##
-  ### I´m Learning
-  <div style="display: inline_block"><br>
-  <img align="center" alt="pri-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="pri-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-   
-  </div>
-    
-   ##
-  ### Tools that i use
-  <div style="display: inline_block"><br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sérgiopereirait" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sérgiopereirait" height="30" width="40" /></a>
+</p>
 
-  <img align="center" alt="pri-vscode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"> 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-    
-  </div>
-  
-   ##
-  ###  Next Steps
-  <div>
-  <img align="center" alt="pri-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergi0pereira&show_icons=true&locale=en&layout=compact" alt="sergi0pereira" /></p>
 
-    
-  </div>
-  
-  ##
-  ### How you find me
-   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sergi0pereira&show_icons=true&locale=en" alt="sergi0pereira" /></p>
 
-  <a href = "mailto:tpessoalsp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/s%C3%A9rgiopereirait" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sergi0pereira&" alt="sergi0pereira" /></p>
