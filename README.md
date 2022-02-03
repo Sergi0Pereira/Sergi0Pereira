@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Sérgio Pereira.</h1>
 <h3 align="center">A passionate FrontEnd Student from Portugal.</h3>
 
-<img align="center" src=👨‍💻 width="50" height="50"> 
+<p align="center"> 	&#128104; </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergi0pereira&label=Profile%20views&color=0e75b6&style=flat" alt="sergi0pereira" /> </p>
 
