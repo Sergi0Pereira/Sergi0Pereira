@@ -1,6 +1,6 @@
-### Hi! � My name is Sérgio and i´m Portuguse.🙋‍♂️ 🇵🇹 
+### Hi! My name is Sérgio and i´m Portuguse.🙋‍♂️ 🇵🇹 
 
-I speak 🇵🇹 , 🇺🇸 and a little bit of 🇪🇸 .I´m currently learning FrontEnd 💻
+I speak 🇵🇹 , 🇺🇸 and a little bit of 🇪🇸 .I´m currently learning FrontEnd Development💻
 
 ##
 
