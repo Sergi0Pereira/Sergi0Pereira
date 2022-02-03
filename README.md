@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sérgio Pereira.</h1>
+<h1 align="center">Hi! I'm Sérgio Pereira.</h1>
 <h3 align="center">A passionate FrontEnd Student from Portugal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergi0pereira&label=Profile%20views&color=0e75b6&style=flat" alt="sergi0pereira" /> </p>
 
-- 🌱 I’m currently learning: **C,C++,Html5,Css3,Java,JavaScript**
+- 🌱 I’m currently learning: **C, C++, Html5, Css3, Java and JavaScript.**
 
 - 📫 How to reach me: **tpessoalsp@gmail**
 
