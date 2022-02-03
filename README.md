@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Sérgio Pereira.</h1>
 <h3 align="center">A passionate FrontEnd Student from Portugal.</h3>
 
-<input type="text" value="👨‍💻" readonly="" class="emoji-copy copy-paste__data" id="emoji-copy" wtx-context="75B82B3E-178D-432F-B341-AAFC48AC54A5">
+<p> <img align="center" src="👨‍💻" width="50" height="50"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergi0pereira&label=Profile%20views&color=0e75b6&style=flat" alt="sergi0pereira" /> </p>
 
