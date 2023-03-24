@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergi0pereira&label=Profile%20views&color=0e75b6&style=flat" alt="sergi0pereira" /> </p>
 
-- 🌱 I’m currently learning: **C, C++, Html5, CSS3, Java and JavaScript.**
+- 🌱 I’m currently working with MySQL , R , Excel and Tableau .**
 
 - 📫 How to reach me: **tpessoalsp@gmail**
 
