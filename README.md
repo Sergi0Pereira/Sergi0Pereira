@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! I'm Sérgio Pereira.</h1>
-<h3 align="center">A passionate Computer Science Student from Portugal.</h3>
+<h3 align="center">Data Analyst</h3>
 
 <h1 align="center" "> 	&#128187; </h1>
 
