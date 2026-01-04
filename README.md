@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi! I'm Sérgio Pereira.</h1>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">DevOps Engineer</h3>
 
 <h1 align="center" "> 	&#128187; </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergi0pereira&label=Profile%20views&color=0e75b6&style=flat" alt="sergi0pereira" /> </p>
 
-- 🌱 I’m currently working with SQL, DataBricks, Python, PySpark.**
+- 🌱 
 
 - 📫 How to reach me: **tpessoalsp@gmail**
 
