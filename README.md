@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergi0pereira&label=Profile%20views&color=0e75b6&style=flat" alt="sergi0pereira" /> </p>
 
-- 🌱 
-
 - 📫 How to reach me: **tpessoalsp@gmail**
 
 <h3 align="left">Connect with me:</h3>
